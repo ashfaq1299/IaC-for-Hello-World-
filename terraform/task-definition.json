@@ -1,0 +1,12 @@
+[
+  {
+    "name": "my-container",
+    "image": "my-image",
+    "portMappings": [
+      {
+        "containerPort": 3000,
+        "hostPort": 3000
+      }
+    ]
+  }
+]
